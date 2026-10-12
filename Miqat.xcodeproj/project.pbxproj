@@ -29,6 +29,7 @@
 		9352C135D2067AEB85551935 /* LocalizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A77A84D61801D29005E32 /* LocalizationTests.swift */; };
 		9C4548DBBAF6A4BC858DCDEE /* ReminderScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670D6A688CD72B6D1C2CD5E /* ReminderScheduler.swift */; };
 		A1B2C3D4E5F60718293A4B5A /* IqamaCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60718293A4B5B /* IqamaCalculator.swift */; };
+		B1B2C3D4E5F60718293A4B6A /* IqamaSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1B2C3D4E5F60718293A4B6B /* IqamaSettingsView.swift */; };
 		9C9A73A4C402BC963D32A189 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE63F8748150F89A836CFD9 /* SettingsView.swift */; };
 		A117ACEDE5BB5FB382654B82 /* AdhanCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A053A789C94C994C177E3CAD /* AdhanCatalog.swift */; };
 		A36AE020A56C904B5D319338 /* PlacePersistenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D06787CC59BB3A09C84FC4 /* PlacePersistenceTests.swift */; };
@@ -109,6 +110,7 @@
 		F20A25601D0A28A59E9A4FC7 /* DesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
 		F670D6A688CD72B6D1C2CD5E /* ReminderScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderScheduler.swift; sourceTree = "<group>"; };
 		A1B2C3D4E5F60718293A4B5B /* IqamaCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IqamaCalculator.swift; sourceTree = "<group>"; };
+		B1B2C3D4E5F60718293A4B6B /* IqamaSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IqamaSettingsView.swift; sourceTree = "<group>"; };
 		FB45C82AC729BC3001BB5817 /* AdhanPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdhanPlayer.swift; sourceTree = "<group>"; };
 		FBC582F97510279AD91D1E64 /* StatusItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusItemController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -174,6 +176,7 @@
 				2D313837F13D833CD15B2971 /* PrayerScheduleStore.swift */,
 				F670D6A688CD72B6D1C2CD5E /* ReminderScheduler.swift */,
 				A1B2C3D4E5F60718293A4B5B /* IqamaCalculator.swift */,
+				B1B2C3D4E5F60718293A4B6B /* IqamaSettingsView.swift */,
 				BFE63F8748150F89A836CFD9 /* SettingsView.swift */,
 				FBC582F97510279AD91D1E64 /* StatusItemController.swift */,
 				EC16E9E47650EEB874667644 /* Theme.swift */,
@@ -347,6 +350,7 @@
 				5FF4128399FBC268D90A3103 /* PrayerScheduleStore.swift in Sources */,
 				9C4548DBBAF6A4BC858DCDEE /* ReminderScheduler.swift in Sources */,
 				A1B2C3D4E5F60718293A4B5A /* IqamaCalculator.swift in Sources */,
+				B1B2C3D4E5F60718293A4B6A /* IqamaSettingsView.swift in Sources */,
 				9C9A73A4C402BC963D32A189 /* SettingsView.swift in Sources */,
 				ED5D18BF5EA582A6F2B88B0E /* StatusItemController.swift in Sources */,
 				E4ADE97DEC0836ED690F0CB8 /* Theme.swift in Sources */,
