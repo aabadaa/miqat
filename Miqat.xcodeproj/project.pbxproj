@@ -28,6 +28,7 @@
 		8F58BB72839B4AC062D3E2D6 /* AdhanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAB5A3355BCDDBFF70B09217 /* AdhanTests.swift */; };
 		9352C135D2067AEB85551935 /* LocalizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A77A84D61801D29005E32 /* LocalizationTests.swift */; };
 		9C4548DBBAF6A4BC858DCDEE /* ReminderScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670D6A688CD72B6D1C2CD5E /* ReminderScheduler.swift */; };
+		A1B2C3D4E5F60718293A4B5A /* IqamaCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60718293A4B5B /* IqamaCalculator.swift */; };
 		9C9A73A4C402BC963D32A189 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE63F8748150F89A836CFD9 /* SettingsView.swift */; };
 		A117ACEDE5BB5FB382654B82 /* AdhanCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A053A789C94C994C177E3CAD /* AdhanCatalog.swift */; };
 		A36AE020A56C904B5D319338 /* PlacePersistenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D06787CC59BB3A09C84FC4 /* PlacePersistenceTests.swift */; };
@@ -48,6 +49,7 @@
 		E478E9E00EDA54D532B20C43 /* CREDITS.md in Resources */ = {isa = PBXBuildFile; fileRef = BE05D2B4770998F051409CE4 /* CREDITS.md */; };
 		E4ADE97DEC0836ED690F0CB8 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC16E9E47650EEB874667644 /* Theme.swift */; };
 		E728456C4C640836C3977AB6 /* ReminderSchedulerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D158F2D941969A4B48CAE102 /* ReminderSchedulerTests.swift */; };
+		A1B2C3D4E5F60718293A4B5C /* IqamaCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60718293A4B5D /* IqamaCalculatorTests.swift */; };
 		ED5D18BF5EA582A6F2B88B0E /* StatusItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC582F97510279AD91D1E64 /* StatusItemController.swift */; };
 		EDA07005C19E2B18D917E118 /* Localization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E906A1C7CA8D11F21BCF56 /* Localization.swift */; };
 /* End PBXBuildFile section */
@@ -97,6 +99,7 @@
 		C9AAECDFAF82D0F03B4BC7C8 /* turkey.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = turkey.mp3; sourceTree = "<group>"; };
 		CE2521E5E9B731DBC810A348 /* abdulbasit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abdulbasit.mp3; sourceTree = "<group>"; };
 		D158F2D941969A4B48CAE102 /* ReminderSchedulerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderSchedulerTests.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60718293A4B5D /* IqamaCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IqamaCalculatorTests.swift; sourceTree = "<group>"; };
 		D8AD695E8BCB3D1FA76F6F95 /* CountryMethodTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryMethodTests.swift; sourceTree = "<group>"; };
 		DAB5A3355BCDDBFF70B09217 /* AdhanTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdhanTests.swift; sourceTree = "<group>"; };
 		DF90AA48406F3E3088F428E8 /* Format.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Format.swift; sourceTree = "<group>"; };
@@ -105,6 +108,7 @@
 		EC16E9E47650EEB874667644 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		F20A25601D0A28A59E9A4FC7 /* DesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
 		F670D6A688CD72B6D1C2CD5E /* ReminderScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderScheduler.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60718293A4B5B /* IqamaCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IqamaCalculator.swift; sourceTree = "<group>"; };
 		FB45C82AC729BC3001BB5817 /* AdhanPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdhanPlayer.swift; sourceTree = "<group>"; };
 		FBC582F97510279AD91D1E64 /* StatusItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusItemController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -169,6 +173,7 @@
 				83EE8FF3CFEE0AA1EB66667B /* PrayerHeroCard.swift */,
 				2D313837F13D833CD15B2971 /* PrayerScheduleStore.swift */,
 				F670D6A688CD72B6D1C2CD5E /* ReminderScheduler.swift */,
+				A1B2C3D4E5F60718293A4B5B /* IqamaCalculator.swift */,
 				BFE63F8748150F89A836CFD9 /* SettingsView.swift */,
 				FBC582F97510279AD91D1E64 /* StatusItemController.swift */,
 				EC16E9E47650EEB874667644 /* Theme.swift */,
@@ -187,6 +192,7 @@
 				40D06787CC59BB3A09C84FC4 /* PlacePersistenceTests.swift */,
 				2C4C26866D2F56AC10117FCA /* PrayerEngineTests.swift */,
 				D158F2D941969A4B48CAE102 /* ReminderSchedulerTests.swift */,
+				A1B2C3D4E5F60718293A4B5D /* IqamaCalculatorTests.swift */,
 			);
 			path = MiqatTests;
 			sourceTree = "<group>";
@@ -340,6 +346,7 @@
 				D24F4EFDCAC346E435CBA8FA /* PrayerHeroCard.swift in Sources */,
 				5FF4128399FBC268D90A3103 /* PrayerScheduleStore.swift in Sources */,
 				9C4548DBBAF6A4BC858DCDEE /* ReminderScheduler.swift in Sources */,
+				A1B2C3D4E5F60718293A4B5A /* IqamaCalculator.swift in Sources */,
 				9C9A73A4C402BC963D32A189 /* SettingsView.swift in Sources */,
 				ED5D18BF5EA582A6F2B88B0E /* StatusItemController.swift in Sources */,
 				E4ADE97DEC0836ED690F0CB8 /* Theme.swift in Sources */,
@@ -358,6 +365,7 @@
 				A36AE020A56C904B5D319338 /* PlacePersistenceTests.swift in Sources */,
 				4ACC5BDE39FFD7330E4C3DF7 /* PrayerEngineTests.swift in Sources */,
 				E728456C4C640836C3977AB6 /* ReminderSchedulerTests.swift in Sources */,
+				A1B2C3D4E5F60718293A4B5C /* IqamaCalculatorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
